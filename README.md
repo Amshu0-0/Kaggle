@@ -52,4 +52,4 @@ The model does a decent job at predicting house values! Here are the key metrics
 This is a learning project, so the model might not be perfect for real-world predictions. But it's a cool way to understand how different factors affect house prices :)
 
 ---
-made with ღ ღ
+made with ☕
